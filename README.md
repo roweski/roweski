@@ -4,7 +4,7 @@ Compare Intune policies across tenants — securely, offline-capable, and fully 
 
 <p align="center">
   <a href="https://github.com/roweski/basetune">
-    <img src="https://img.shields.io/badge/Go%20to-roweski%2Fbasetune-blue?style=for-the-badge&logo=github" alt="Go to basetune">
+    <img src="https://img.shields.io/badge/Go%20to-roweski%2Fbasetune-181717?style=for-the-badge&logo=github&labelColor=AD8142" alt="Go to basetune">
   </a>
 </p>
 
