@@ -17,6 +17,6 @@ Each run compares one source against one target, using any combination of online
 <br>
 
 <a href="https://www.buymeacoffee.com/roweski" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 35px !important; width: 126px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me a Coffee" style="height: 35px !important; width: 126px !important;">
 </a>
 </a>
