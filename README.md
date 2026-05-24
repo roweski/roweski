@@ -2,7 +2,7 @@
 
 Compare Intune policies across tenants — securely, offline-capable, and fully under your control.
 
-[Get started with Basetune](https://github.com/Roweski/Basetune)
+[Get started with Basetune →](https://github.com/Roweski/Basetune)
 
 ## What it does
 
